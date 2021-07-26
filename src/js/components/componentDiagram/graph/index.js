@@ -80,7 +80,10 @@ export default class Graph {
       });
     }
 
-    node.group.remove();
+    if (node) {
+      node.group.remove();
+    }
+
     this.graph.removeNode(id);
   }
 

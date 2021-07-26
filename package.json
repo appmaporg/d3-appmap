@@ -1,6 +1,6 @@
 {
   "name": "@appland/diagrams-old",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Diagrams for visualizations of appland.org data",
   "main": "dist/@appland/diagrams-old.js",
   "module": "src/index.js",
